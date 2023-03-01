@@ -1,0 +1,20 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "Projectan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Rahmat Hidayat",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^2.4.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "server": "^1.0.38",
+    "uuid": "^9.0.0"
+  }
+}
